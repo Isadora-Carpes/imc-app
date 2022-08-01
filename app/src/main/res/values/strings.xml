@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cálculo IMC</string>
+    <string name="imc">IMC</string>
+    <string name="altura_ex_1_63_m">Altura (Ex.: 1.63 m)</string>
+    <string name="peso_ex_65_2_kg">Peso (Ex.: 65.2 kg)</string>
+    <string name="calcular">calcular</string>
+    <string name="imc_resultado">Seu IMC é: %.2f.</string>
+    <string name="abaixo">Seu IMC é %.2f. Você está abaixo do peso!</string>
+    <string name="obesidade_3">Seu IMC é %.2f. Você está com obesidade grau III!</string>
+    <string name="obesidade_2">Seu IMC é %.2f. Você está com obesidade grau II!</string>
+    <string name="obesidade_1">Seu IMC é %.2f. Você está com besidade grau I!</string>
+    <string name="sobrepeso">Seu IMC é %.2f. Você está com sobrepeso!</string>
+    <string name="peso_normal">Seu IMC é %.2f. Você está com o peso normal!</string>
+</resources>
