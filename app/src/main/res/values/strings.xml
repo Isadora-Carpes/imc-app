@@ -8,7 +8,7 @@
     <string name="abaixo">Seu IMC é %.2f. Você está abaixo do peso!</string>
     <string name="obesidade_3">Seu IMC é %.2f. Você está com obesidade grau III!</string>
     <string name="obesidade_2">Seu IMC é %.2f. Você está com obesidade grau II!</string>
-    <string name="obesidade_1">Seu IMC é %.2f. Você está com besidade grau I!</string>
+    <string name="obesidade_1">Seu IMC é %.2f. Você está com obesidade grau I!</string>
     <string name="sobrepeso">Seu IMC é %.2f. Você está com sobrepeso!</string>
     <string name="peso_normal">Seu IMC é %.2f. Você está com o peso normal!</string>
 </resources>
